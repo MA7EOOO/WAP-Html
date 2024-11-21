@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #a6bfd1;
+    color: #031625;
+    display: flex;
+}
+.navbar-collapse {
+    justify-content: space-between;
+    color: azure;
+}
